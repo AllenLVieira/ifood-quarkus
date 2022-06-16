@@ -1,4 +1,4 @@
-package br.com.allen.ifood.registration;
+package br.com.allen.ifood.marketplace;
 
 import io.quarkus.test.junit.QuarkusTest;
 import org.junit.jupiter.api.Test;
