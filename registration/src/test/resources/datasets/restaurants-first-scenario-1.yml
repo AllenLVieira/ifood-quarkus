@@ -1,0 +1,7 @@
+restaurant:
+  - ID: 1
+    NAME: "New restaurant"
+    OWNER: "Owner"
+  - ID: 2
+    NAME: "New restaurant2"
+    OWNER: "Owner2"
